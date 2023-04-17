@@ -1,5 +1,23 @@
 export const projects = [
   {
+    title: '"Superate" TypeORM User Screen',
+    description: "In this app I helped provide maintenance to 'Superate' the Dominican Republic's government institution responsible of displaying the financial aid given to those who need it the most.",
+    image: 'images/pasantia-app-redacted.png',
+    tags: ['TypesScript', 'Tailwind', 'TypeORM', 'Sass'],
+    source: 'https://www.superate.gob.do/',
+    visit: '',
+    id: 0,
+  },
+  {
+    title: 'Cocktails App',
+    description: "Using mainly React. In this front-end App I implemented a fetch that retrieves data from an online API, which then allows users to interact and find some of the drinks available in the data object that is being received.",
+    image: 'images/2023-04-11.png',
+    tags: ['React', 'Fetch', 'CSS'],
+    source: 'https://github.com/Christian346/Cocktails-DB',
+    visit: 'https://github.com/Christian346/Sneakers',
+    id: 0,
+  },
+  {
     title: 'Sneaker Shop',
     description: "Using Html, Javascript, SCSS from start to finish. This front-end App is a shop for sneakers, which allows users to interact with a shopping cart.",
       image: 'images/sneakershop.png',
