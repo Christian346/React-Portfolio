@@ -13,8 +13,8 @@ export const projects = [
     description: "Using mainly React. In this front-end App I implemented a fetch that retrieves data from an online API, which then allows users to interact and find some of the drinks available in the data object that is being received.",
     image: 'images/2023-04-11.png',
     tags: ['React', 'Fetch', 'CSS'],
-    source: 'https://github.com/Christian346/Cocktails-DB',
-    visit: 'https://github.com/Christian346/Sneakers',
+    source: 'https://christian346.github.io/Cocktails-DB/',
+    visit: 'https://github.com/Christian346/Cocktails-DB',
     id: 0,
   },
   {
